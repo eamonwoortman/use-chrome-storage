@@ -1,6 +1,6 @@
 {
   "name": "@eamonwoortman/use-chrome-storage",
-  "version": "1.2.5",
+  "version": "1.2.3",
   "description": "Custom React hooks for `chrome.storage.` You may use it for keeping global persisted state in chrome extensions.",
   "source": "src/index.js",
   "main": "dist/index.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eamonwoortman/use-chrome-storage"
+    "url": "git+https://github.com/eamonwoortman/use-chrome-storage.git"
   },
   "bugs": {
     "url": "https://github.com/eamonwoortman/use-chrome-storage"
