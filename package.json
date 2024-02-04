@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onikienko/use-chrome-storage"
+    "url": "git+https://github.com/eamonwoortman/use-chrome-storage"
   },
   "bugs": {
-    "url": "https://github.com/onikienko/use-chrome-storage/issues"
+    "url": "https://github.com/eamonwoortman/use-chrome-storage"
   },
-  "homepage": "https://github.com/onikienko/use-chrome-storage#readme",
+  "homepage": "https://github.com/eamonwoortman/use-chrome-storage#readme",
   "author": {
     "name": "Mykhailo Onikiienko",
     "email": "michael.onikienko@gmail.com"
